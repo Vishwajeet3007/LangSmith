@@ -1,0 +1,6 @@
+{
+  "pdf_path": "D:\\GITHUB\\LangSmith\\islr.pdf",
+  "chunk_size": 1000,
+  "chunk_overlap": 150,
+  "embedding_model": "models/embedding-001"
+}
